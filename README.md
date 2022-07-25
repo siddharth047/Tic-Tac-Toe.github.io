@@ -1,4 +1,4 @@
 # Tic-Tac-Toe Game
 
-Github Link : https://github.com/siddharth047/To-Do-List.github.io.git
+Github Link :https://siddharth047.github.io/Tic-Tac-Toe-Game-/
 
